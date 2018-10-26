@@ -26,5 +26,5 @@ class AppComponent implements OnInit {
 
   void ngOnInit() => _getHeroes();
   void onSelect(Hero hero) => selected = hero;
-  void clearAll() => selected = null;
+  //void clearAll() => selected = null;
 }
