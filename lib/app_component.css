@@ -25,7 +25,7 @@
     color: white;
 }
 
-.heroes li:hoever {
+.heroes li:hover {
     color: #607D8B;
     background-color: #EEE;
     left: .1em;
